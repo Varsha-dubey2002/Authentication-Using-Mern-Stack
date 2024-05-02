@@ -72,7 +72,7 @@ For this project I took around `3 to 4 hours` to complete it.
 
 
 
-Project Link: [GitHub](https://github.com/vandit-bera/Authentication-Using-MERN-Stack)
+Project Link: [GitHub](https://github.com/Varsha-dubey2002/Authentication-Using-Mern-Stack.git)
 
 
 <!-- Linkedin -->
